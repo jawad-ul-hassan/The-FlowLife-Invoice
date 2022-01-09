@@ -396,6 +396,8 @@ a {
   .container {
     max-width: 1460px;
     width: 100%;
+    border-left: 1.5px solid #eee;
+    border-right: 1.5px solid #eee;
   }
 }
 
